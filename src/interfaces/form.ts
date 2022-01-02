@@ -6,7 +6,7 @@ export interface QuestionInterface{
   selectOptions: Array<SelectOptionInterface>;
 }
 
-export interface SelectOptionInterace{
+export interface SelectOptionInterface{
   uuid: string;
   title: string;
   description: string;
